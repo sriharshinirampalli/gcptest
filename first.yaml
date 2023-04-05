@@ -7,7 +7,7 @@ _workspace: "TSBT"
 services:
   - connect_timeout: 60000
     host: apigw-private-nane-np-001.tsl.maid.com
-    name: accountinfoservice_V2_4
+    name: accountinfoservice_V2
     path: /selfmgmt/accountinfo2_4/v2/
     plugins:
       - config:
